@@ -9,14 +9,12 @@ caption: 'To Blender, όπου δημιουργήθηκε από τον Ton Roos
 license_url: 'https://www.blender.org/'
 license_text: blender
 categories:
- - Μορφές
  - Τεχνολογία
- - Εργαλεία και Τεχνικές
- - Μοντέλα
+ - Εργαλεία και Τεχνικές 
 tags:
  - Βιντεοπαιχνίδια
- - Τεχνολογία
- - Επεξεργασία εικόνας 
- - GUI
- - Γραφικό Περιβάλλον
+ - graphics
+ - Virtual Reality
+ - 3d
+ - animation
 ---
