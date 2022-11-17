@@ -10,11 +10,12 @@ caption: 'Η Unreal Engine είναι μια μηχανή-εφαρμογή, σχ
 license_url: 'https://www.giantbomb.com/images/1300-302299'
 license_text: giantbomb
 categories:
- - Μορφές
  - Τεχνολογία
- - Εργαλεία και Τεχνικές
+ - Εργαλεία
 tags:
  - Βιντεοπαιχνίδια
- - Τεχνολογία
- - GUI
+ - UNREAL
+ - MAX-MSP
+ - technology
+ - graphics
 ---
