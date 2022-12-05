@@ -1,6 +1,6 @@
 ---
 author: nkanagno
-title: Blender
+title: Blender PBR
 year: 1998
 image_url: /images/blender-PBR.jpg
 caption: 'To Blender, όπου δημιουργήθηκε από τον Ton Roosendaal το 1998, είναι ενα πρόγραμμα ανάπτυξης και κατασκεύης 3D γραφικώ
