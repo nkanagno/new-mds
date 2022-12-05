@@ -17,5 +17,4 @@ tags:
  - 3d
  - MAX-MSP
  - GRAIL
- - Blender-Tools
 ---
